@@ -1,3 +1,3 @@
 chmod +x frps
-./frps -c frps.toml &
-chmod +x frps
+apt install screen
+screen ./frps -c frps.toml &
