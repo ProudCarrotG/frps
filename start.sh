@@ -1,2 +1,2 @@
 chmod +x frps
-./frps -c frps.toml
+screen ./frps -c frps.toml &
